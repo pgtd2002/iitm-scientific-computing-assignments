@@ -6,7 +6,7 @@ A collection of Jupyter notebooks documenting programming and computational meth
 
 
 
-| No. | Course / problem set | Topics covered | Notebook |
+| No. | Course · problem set | Topics covered | Notebook |
 |---:|---|---|---|
 | 01 | PH5720 · Problem Set 1 · Jan–May 2025 | Python functions, radians-to-degrees conversion, decimal-to-binary conversion, arithmetic operations, simple interest, string manipulation, factorial, recursive Fibonacci | [01 — Python Fundamentals](notebooks/01-python-fundamentals.ipynb) |
 | 02 | PH5720 · Problem Set 2 · Jan–May 2025 | Floating-point limits, numerical cancellation and stability, recurrence error, order-dependent summation, electric-field plots, wave superposition, pendulum energy contours | [02 — Floating-Point Arithmetic and Visualization](notebooks/02-floating-point-and-visualization.ipynb) |

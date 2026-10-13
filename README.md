@@ -2,7 +2,7 @@
 
 A collection of Jupyter notebooks documenting programming and computational methods explored through coursework at the **Indian Institute of Technology Madras (IIT Madras)**. The assignments cover introductory Python, floating-point accuracy, numerical methods, scientific visualization, linear algebra, differential equations, stochastic simulation, and Fourier-based signal analysis.
 
-> **Academic context:** These notebooks document course-based assignment work. They are a personal learning portfolio, not official course solutions or independent research projects. Please follow the relevant course policies and sharing rules when viewing, reusing, or distributing coursework solutions.
+> **Academic context:** These notebooks document course-based assignment work. They are a personal learning portfolio, not official course solutions or independent research projects. Please follow the relevant course policies and sharing rules when reusing or distributing coursework solutions.
 
 
 
@@ -55,11 +55,9 @@ IITM-Scientific-Computing-Assignments/
 - Jupyter Notebook (`.ipynb`)
 - Scientific computing and plotting libraries as used in the individual notebooks
 
-Each notebook should describe its problem context, approach, implementation, and representative output. Where relevant, include brief explanations of numerical behavior and limitations rather than code alone.
 
 ## Reproducibility and Use
 
 - Run notebooks from top to bottom to verify that code and outputs are consistent.
 - Avoid machine-specific file paths; include any required data files and explain how to use them.
 - Identify external sources or libraries where applicable.
-- Do not present coursework exercises as independent projects, and make sure public sharing is consistent with course rules.

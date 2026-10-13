@@ -4,16 +4,14 @@ A collection of Jupyter notebooks documenting programming and computational meth
 
 > **Academic context:** These notebooks document course-based assignment work. They are a personal learning portfolio, not official course solutions or independent research projects. Please follow the relevant course policies and sharing rules when viewing, reusing, or distributing coursework solutions.
 
-## Assignment Index
 
-The links below assume that the notebooks are stored in the `notebooks/` directory with the filenames shown. Update the paths if you use different names.
 
 | No. | Course / problem set | Topics covered | Notebook |
 |---:|---|---|---|
 | 01 | PH5720 · Problem Set 1 · Jan–May 2025 | Python functions, radians-to-degrees conversion, decimal-to-binary conversion, arithmetic operations, simple interest, string manipulation, factorial, recursive Fibonacci | [01 — Python Fundamentals](notebooks/01-python-fundamentals.ipynb) |
 | 02 | PH5720 · Problem Set 2 · Jan–May 2025 | Floating-point limits, numerical cancellation and stability, recurrence error, order-dependent summation, electric-field plots, wave superposition, pendulum energy contours | [02 — Floating-Point Arithmetic and Visualization](notebooks/02-floating-point-and-visualization.ipynb) |
 | 03 | PH5720 · Problem Set 3 · Jan–May 2025 | Series approximations for sine and exponential functions, truncation and relative error, recursive evaluation, logistic map, bifurcation and chaotic behavior | [03 — Series Methods and Nonlinear Dynamics](notebooks/03-series-methods-and-nonlinear-dynamics.ipynb) |
-| 04 | PH1050 · Problem Set 4 · Jul–Nov 2024 | Two-point linear interpolation, file-based data input, Lagrange interpolation, polynomial interpolation, cubic splines, comparison of interpolation methods | [04 — Interpolation Methods](notebooks/04-interpolation-methods.ipynb) |
+| 04 | PH5720 · Problem Set 4 · Jul–Nov 2024 | Two-point linear interpolation, file-based data input, Lagrange interpolation, polynomial interpolation, cubic splines, comparison of interpolation methods | [04 — Interpolation Methods](notebooks/04-interpolation-methods.ipynb) |
 | 05 | PH5720 · Problem Set 5 · Jan–May 2025 | Forward, backward and central finite differences, derivative error versus step size, second derivatives, numerical energy estimation for a particle in a box | [05 — Numerical Differentiation](notebooks/05-numerical-differentiation.ipynb) |
 | 06 | PH5720 · Problem Set 6 · Jan–May 2025 | Least-squares fitting, curve fitting, polynomial fitting, trapezoidal and Simpson’s rules, Gaussian quadrature, two-dimensional integration, adaptive integration and error convergence | [06 — Data Fitting and Numerical Integration](notebooks/06-data-fitting-and-integration.ipynb) |
 | 07 | PH5720 · Problem Set 7 · Jan–May 2025 | Bisection, Newton–Raphson and secant methods, convergence and initial guesses, reciprocal iteration, root finding for a deuteron bound-state equation | [07 — Root-Finding Methods](notebooks/07-root-finding-methods.ipynb) |
